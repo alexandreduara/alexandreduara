@@ -1,4 +1,4 @@
-## Olá Devs! Meu nome é Alexandre e sou um aspirante a Desenvolvedor!
+## Olá Devs! Meu nome é Alexandre e sou Desenvolvedor Front-End!
 Sou **graduando em Análise e Desenvolvimento de Sistemas**, tenho uma imensa vontade de aprender e de começar a trilhar a minha carreira como desenvolvedor, atualmente estou **fazendo cursos e projetos** para alcançar o meu objetivo, **fique a vontade para me enviar mensagem!**
 <br>
 
