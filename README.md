@@ -30,6 +30,7 @@ E atualmente estou aprofundando em:
 </div>
 
 <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexandreduara)](https://git.io/streak-stats)
 
 ### Me envie uma mensagem!
 <div>
