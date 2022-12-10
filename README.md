@@ -6,9 +6,7 @@ Sou **graduando em Análise e Desenvolvimento de Sistemas**, tenho uma imensa vo
   <div align="center">
     <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api?username=alexandreduara&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"> <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreduara&layout=compact&langs_count=7&theme=onedark">
     <br>
-    <img height="180em" width="80%" src="https://streak-stats.demolab.com?user=alexandreduara&theme=onedark">
-    
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexandreduara)](https://git.io/streak-stats)
+
   </div>
   
 
